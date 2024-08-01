@@ -22,7 +22,7 @@
   		<input type="submit" value="signup">
   </form>
     
-      <h2><a href="">Login</a></h2>
+      <h2><a href="login.jsp">Login</a></h2>
   </div>
   <div class='whysign'>
  <%
