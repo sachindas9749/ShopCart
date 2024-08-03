@@ -1,6 +1,6 @@
 .input-style {
   width: 40%;
-  padding: 12px 20px;
+  padding: 12px 10px;
   margin-left:30%;
   box-sizing: border-box;
   border: none;
@@ -46,7 +46,7 @@ h3
 }
 .alert
 {
-	color:yellow;
+	color:rgb(0, 255, 128);
 }
 
 .profile-style
