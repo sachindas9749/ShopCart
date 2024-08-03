@@ -96,7 +96,7 @@ try{
 <div class="left-div">
 <h3>Select way of Payment</h3>
  <select class="input-style" name="paymentMethod">
- <option value="Cash on delivery(COD)">Cash on delivery(COD)</option>
+ <option value="Cash on delivery">Cash on delivery</option>
  <option value="Online Payment">Online Payment</option>
  </select>
 </div>

@@ -26,7 +26,7 @@ if("valid".equals(msg)){
 <hr>
 <textarea class="input-style" type="text" name="body" placeholder="Enter Your Message"required></textarea>
 <hr>
-<button class="button" type="submit">Send<i class="far fa-arrow-alt-circle-right"></i></button>
+<button class="button" type="submit">Send <i class="far fa-arrow-alt-circle-right"></i></button>
 </form>
 <br><br><br>
 </body>
